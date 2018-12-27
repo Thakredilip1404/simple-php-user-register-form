@@ -1,0 +1,13 @@
+Its a simple Php ,html forms and mysql database;
+
+Little Html and css is also used to look good ui.
+
+Instructions:
+1) This project was compiled on PHP 5 so if you are using higher version use Mysqli() function instead of mysql();
+2)Database .Sql file is given import into localhost/phpmyadmin 
+3) Run the code register ,view ,update delete the users from infosite.
+
+
+
+
+Thank you !
